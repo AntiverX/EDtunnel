@@ -10,7 +10,7 @@ let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
 // let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
 // use single พร็อกซีไอพี instead of random
-let พร็อกซีไอพี = '8.219.177.205';
+let พร็อกซีไอพี = '47.245.86.230';
 // ipv6 พร็อกซีไอพี example remove comment to use
 // let พร็อกซีไอพี = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
