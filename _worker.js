@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 // let proxyIP = '8.222.193.65';
-const พร็อกซีไอพีs = ['8.222.193.65'];
+const พร็อกซีไอพีs = ['8.222.213.221'];
 let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
 
 
